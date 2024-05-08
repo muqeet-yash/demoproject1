@@ -1,0 +1,10 @@
+<mvc:View controllerName="m618.demoproject1.controller.home"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content >
+            <Title id="title" text="Connect with github"></Title>
+            <Text text="First Page | home" id="home"></Text>
+        </content>
+    </Page>
+</mvc:View>
